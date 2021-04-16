@@ -1,0 +1,26 @@
+body {
+  background-image: url("gradient.png");
+  background-color: #4c4c4c;
+}
+
+b {
+  color: red;
+  font-size: 30px;
+}
+
+.HTMLsiteContent {
+  font-size: 50px; 
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+p {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
